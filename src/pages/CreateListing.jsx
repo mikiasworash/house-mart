@@ -14,6 +14,7 @@ import { useNavigate } from "react-router-dom";
 import Spinner from "../components/Spinner";
 
 function CreateListing() {
+  // eslint-disable-next-line
   const [geolocationEnabled, setGeolocationEnabled] = useState(false);
   const [loading, setLoading] = useState(false);
 
