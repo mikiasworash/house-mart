@@ -63,7 +63,7 @@ function SignUp() {
     <>
       <div className="pageContainer">
         <header>
-          <p className="pageHeader">Welcome back, bitch!</p>
+          <p className="pageHeader">Welcome back!</p>
         </header>
 
         <main>
