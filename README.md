@@ -2,6 +2,8 @@
 
 A house market app where users can search for houses to rent or buy/sell.
 
-## Homepage Preview
+- Deployed Version: https://house-market-delta.vercel.app/
 
-![Homepage](src/assets/jpg/home.PNG)
+## Preview
+
+![Homepage](src/assets/jpg/Home.png)
